@@ -1,4 +1,4 @@
-부동산R114 코딩 컨벤션
+SmartManage CodingConvention
 ================
 > - 최초작성 : 2023-11-14 (작성중)
 
